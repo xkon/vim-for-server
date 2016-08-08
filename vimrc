@@ -44,7 +44,7 @@ set tm=500
 
 
 " show location
-set cursorcolumn
+" set cursorcolumn
 set cursorline
 
 
@@ -188,10 +188,10 @@ map <C-k> <C-W>k
 map <C-h> <C-W>h
 map <C-l> <C-W>l
 
-nnoremap <F2> :set nu! nu?<CR>
+" nnoremap <F2> :set nu! nu?<CR>
 nnoremap <F3> :set list! list?<CR>
 nnoremap <F4> :set wrap! wrap?<CR>
-set pastetoggle=<F5>            "    when in insert mode, press <F5> to go to
+set pastetoggle=<F2>            "    when in insert mode, press <F5> to go to
                                 "    paste mode, where you can paste mass data
                                 "    that won't be autoindented
 au InsertLeave * set nopaste
