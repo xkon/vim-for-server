@@ -5,13 +5,13 @@ vim-for-server
 
 # Introduction
 
-This repository is a simplified version of [k-vim](https://github.com/wklken/k-vim)
+This repository fork from wklken's [vim-for-server](https://github.com/wklken/vim-for-server)
 
-Just remove all plugins, keep basic config.
+Just change some to satisfy my habit.
 
 # Screenshot
 
-![screenshot](https://raw.githubusercontent.com/wklken/gallery/master/vim/vim-for-server.png)
+![screenshot](https://raw.githubusercontent.com/xkon/gallery/master/vim/vim-for-server.png)
 
 # Install
 
@@ -25,32 +25,25 @@ cp ~/.vimrc ~/.vimrc_bak
 
 recommend
 ```
-curl https://raw.githubusercontent.com/wklken/vim-for-server/master/vimrc > ~/.vimrc
+curl https://raw.githubusercontent.com/xkon/vim-for-server/master/vimrc > ~/.vimrc
 ```
 or  use git
 
 ```
-git clone https://github.com/wklken/vim-for-server.git
+git clone https://github.com/xkon/vim-for-server.git
 ln -s vim-for-server/vimrc ~/.vimrc
 ```
 
 #### 3. Done, enjoy it
 
 
-# Donation
-
-You can Buy me a coffee:)  [link](http://www.wklken.me/pages/donation.html)
-
 
 ------------------------
 ------------------------
 
-wklken
+xkon
 
-Email: wklken@yeah.net
 
-Github: https://github.com/wklken
+Github: https://github.com/xkon
 
-Blog: [http://www.wklken.me](http://www.wklken.me)
 
-2014-10-26 ShenZheng
