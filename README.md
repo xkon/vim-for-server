@@ -11,7 +11,7 @@ Just change some to satisfy my habit.
 
 # Screenshot
 
-![screenshot](https://raw.githubusercontent.com/xkon/gallery/master/vim/vim-for-server.png)
+![screenshot](https://raw.githubusercontent.com/xkon/vim-for-server/master/vim-for-server.png)
 
 # Install
 
